@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example.AmagiWebdriverTest" duration-ms="6655" started-at="२०१६-०३-२४T१०:०५:४०Z" finished-at="२०१६-०३-२४T१०:०५:४७Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6655" started-at="२०१६-०३-२४T१०:०५:४०Z" finished-at="२०१६-०३-२४T१०:०५:४७Z">
+      <class name="example.AmagiWebdriverTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:example.AmagiWebdriverTest@97e1986]" name="beforeTest" is-config="true" duration-ms="2172" started-at="२०१६-०३-२४T१५:३५:४०Z" finished-at="२०१६-०३-२४T१५:३५:४२Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:example.AmagiWebdriverTest@97e1986]" name="logintest" duration-ms="4467" started-at="२०१६-०३-२४T१५:३५:४२Z" finished-at="२०१६-०३-२४T१५:३५:४७Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.AmagiWebdriverTest@97e1986]" name="afterTest" is-config="true" duration-ms="0" started-at="२०१६-०३-२४T१५:३५:४७Z" finished-at="२०१६-०३-२४T१५:३५:४७Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- example.AmagiWebdriverTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- example.AmagiWebdriverTest -->
+</testng-results>
